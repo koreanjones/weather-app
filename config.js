@@ -1,0 +1,3 @@
+var config = {
+    SECRET_API_KEY : '248059484e5d761c5334e195c397a87f'
+}
